@@ -1,4 +1,4 @@
-# Scuba Shop Application
+# Scuba Gear Shop Application
 
 ## An Introduction
 
